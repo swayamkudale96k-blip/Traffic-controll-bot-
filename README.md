@@ -1,4 +1,4 @@
-# Traffic-controll-bot-
+# Traffic-control-bot-
 The Smart Traffic Control System is an AI-powered traffic management solution that dynamically adjusts traffic signal timings based on the density of vehicles at an intersection. Unlike traditional fixed-time traffic signals, this system analyzes real-time traffic conditions and allocates green light duration according to vehicle volume, helping reduce congestion, waiting time, and fuel consumption.
 
 This project demonstrates the application of Artificial Intelligence, Computer Vision, and Automation in developing smarter and more efficient urban traffic management systems.
